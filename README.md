@@ -1,2 +1,2 @@
 # data_structures_p
-Se to define datas
+Se to define data inside sters python
